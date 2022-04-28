@@ -13,6 +13,17 @@ main {
     padding: 10px;
     margin: 10px;
     border-radius: 10px;
+    text-align: justify;
+}
+
+main h3 {
+    margin-left: 40px;
+    width: 400px;
+}
+
+div.container {
+    margin: 0 auto;
+    width: 500px;
 }
 
 footer {
